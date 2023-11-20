@@ -1,0 +1,2 @@
+# RaspberryPi-Flipper-Repeater-Interface
+ This repository hosts the source code and documentation for an innovative project that integrates a Raspberry Pi with a Flipper device to interface with radio repeaters. The unique aspect of this setup is its Bluetooth connectivity, allowing for remote control and monitoring from a smartphone. This project aims to provide a versatile and accessible way to interact with radio repeaters, suitable for amateur radio enthusiasts and professionals alike.
