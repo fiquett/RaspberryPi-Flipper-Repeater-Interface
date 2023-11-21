@@ -2,6 +2,8 @@
 
 ## Introduction
 
+![System Diagram](/images/piradio.png)
+
 Welcome to the RaspberryPi-Flipper-Repeater project! This innovative project integrates a Raspberry Pi with a Flipper device to interface with radio repeaters, with the unique feature of Bluetooth control from a smartphone. Designed for both amateur radio enthusiasts and professionals, this system offers a versatile and accessible way to interact with radio repeaters.
 
 ## Features
